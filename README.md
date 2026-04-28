@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4f8e8e8e-0f0e-4e0e-9f0e-8e8e8e8e8e8e" width="100%" alt="Epic Tech AI - Neon Cyberpunk Research Terminal">
+![Epic Tech AI — Neon Cyberpunk Research Terminal](https://picsum.photos/id/1015/1280/420)
 
 **THE FINAL BOSS OF AI RESEARCH**
 
